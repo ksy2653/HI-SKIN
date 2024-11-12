@@ -88,3 +88,6 @@
 
 ## 6. CI/CD
 ![cicd](http://github.com/ksy2653/HI-SKIN/raw/main/cicd.png)
+
+## 7. More about HI-SKIN
+**Notion Link**: <https://bit.ly/3uWAyUs>
